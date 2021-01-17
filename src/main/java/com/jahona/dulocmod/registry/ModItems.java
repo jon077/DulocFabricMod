@@ -12,7 +12,8 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class ModItems {
-//Items
+
+    //Items
     public static final Item ONION = new Item(
             new Item.Settings()
                     .group(ItemGroup.FOOD)
